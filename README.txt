@@ -1,2 +1,2 @@
-Team: CS 499 team 12 
+Team: CS 499 Team 12
 Project:Drone Telemetry
